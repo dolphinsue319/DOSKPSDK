@@ -1,0 +1,10 @@
+target 'DOSKPSDK', :exclusive => true do
+  pod "DOSKPSDK", :path => "../"
+end
+
+target 'Tests', :exclusive => true do
+  pod "DOSKPSDK", :path => "../"
+
+  pod 'Specta', '~> 0.2.1'
+  pod 'Expecta'
+end

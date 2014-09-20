@@ -20,7 +20,7 @@ it, simply add the following line to your Podfile:
 
 ## Author
 
-dolphinSuPixnet, dolphinsu@pixnet.tw
+dolphinSuPixnet, howardsue319@gmail.com
 
 ## License
 
